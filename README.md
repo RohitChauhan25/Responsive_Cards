@@ -1,6 +1,6 @@
 ## Overview
 
-This project is a web application built using **React**, **TypeScript**, and **Tailwind CSS** that displays **responsive product cards**. Each card showcases product details such as the product name, image, description, and price. The layout is fully responsive and adjusts to different screen sizes to provide an optimal viewing experience on desktops, tablets, and mobile devices.
+This project is a web application built using **React**, **TypeScript**, and **Tailwind CSS** that displays **responsive product cards**. Each card showcases product details such as the product name, image, description. The layout is fully responsive and adjusts to different screen sizes to provide an optimal viewing experience on desktops, tablets, and mobile devices.
 
 ## Features
 
